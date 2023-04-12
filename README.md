@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on Fujian Provincial Key Laboratory of Big Data Mining and Applications. -->
 - 🌱 I’m currently learning Federated Learning and Generative Models.
 - 📫 How to reach me: Email(huangqihanssh@gmail.com)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enkerewpo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
