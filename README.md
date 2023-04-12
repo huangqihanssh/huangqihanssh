@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Fujian Provincial Key Laboratory of Big Data Mining and Applications.
 - 🌱 I’m currently learning Federated Learning and Generative Models.
-- 📫 How to reach me: Email(huangqihanssh@gmail.com), Phone(+86 15061973001)
+- 📫 How to reach me: Email(huangqihanssh@gmail.com)
