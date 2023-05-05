@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on Fujian Provincial Key Laboratory of Big Data Mining and Applications. -->
 - 🌱 I’m currently learning Federated Learning and Generative Models.
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything.
 - 📫 How to reach me: Email(huangqihanssh@gmail.com), QQ(541263490).
 
