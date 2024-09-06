@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+![image](https://github.com/user-attachments/assets/afa22f1c-9ba8-45be-9f1a-f3d8d148536b)<!-- ### Hi there 👋 -->
 
 <!--
 **huangqihanssh/huangqihanssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### 👋 Hi, I'm Qihan 😊. 
 
-<!-- - 🔭 I’m currently working on Fujian Provincial Key Laboratory of Big Data Mining and Applications. -->
+<!-- - 🔭 I’m currently studying on the University of Electronic Science and Technology of China. -->
 - 🌱 I’m currently learning Federated Learning and Generative Models.
-- 📫 How to reach me: Email(huangqihanssh@gmail.com).
+- 📫 How to reach me: Email(huangqihanssh@gmail.com, qihan.huang@std.uestc.edu.cn).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huangqihanssh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
