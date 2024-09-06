@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 👋 Hi, I'm Qihan 😊. 
 
 <!-- - 🔭 I’m currently studying on the University of Electronic Science and Technology of China. -->
-- 🌱 I’m currently learning Federated Learning and Generative Models.
+- 🌱 I’m currently focus on Privacy-preserving, Multi-modal Computing and Federated Learning.
 - 📫 How to reach me: Email(huangqihanssh@gmail.com, qihan.huang@std.uestc.edu.cn).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huangqihanssh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
