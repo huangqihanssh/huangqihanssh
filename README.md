@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/afa22f1c-9ba8-45be-9f1a-f3d8d148536b)<!-- ### Hi there 👋 -->
+<!-- ### Hi there 👋 -->
 
 <!--
 **huangqihanssh/huangqihanssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
